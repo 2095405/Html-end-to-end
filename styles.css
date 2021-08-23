@@ -35,7 +35,9 @@ h4{
  .circle{
    border-radius: 40%;
  }
-#name {
+
+}
+ #name {
   color: red;
   font-size: 40px;
   font-style: italic;
